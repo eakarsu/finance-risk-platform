@@ -1,0 +1,80 @@
+[
+  {
+    "id": "ai-bnpl-merchant-settlement-reconciliation",
+    "name": "Bnpl merchant settlement reconciliation",
+    "sourceProject": "ai-bnpl-merchant-settlement-reconciliation",
+    "services": []
+  },
+  {
+    "id": "ai-card-network-assessment-fee-audit",
+    "name": "Card network assessment fee audit",
+    "sourceProject": "ai-card-network-assessment-fee-audit",
+    "services": []
+  },
+  {
+    "id": "ai-corporate-card-rebate-fee-recovery",
+    "name": "Corporate card rebate fee recovery",
+    "sourceProject": "ai-corporate-card-rebate-fee-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-merchant-acquiring-interchange-fee-recovery",
+    "name": "Merchant acquiring interchange fee recovery",
+    "sourceProject": "ai-merchant-acquiring-interchange-fee-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-merchant-chargeback-vamp-control-center",
+    "name": "Merchant chargeback vamp control center",
+    "sourceProject": "ai-merchant-chargeback-vamp-control-center",
+    "services": []
+  },
+  {
+    "id": "ai-payment-processor-fee-settlement-audit",
+    "name": "Payment processor fee settlement audit",
+    "sourceProject": "ai-payment-processor-fee-settlement-audit",
+    "services": []
+  },
+  {
+    "id": "AIAMLTransactionMonitoring",
+    "name": "Amltransaction monitoring",
+    "sourceProject": "AIAMLTransactionMonitoring",
+    "services": []
+  },
+  {
+    "id": "AIAntiFraud",
+    "name": "Anti fraud",
+    "sourceProject": "AIAntiFraud",
+    "services": []
+  },
+  {
+    "id": "AIAutomateinternational",
+    "name": "Automateinternational",
+    "sourceProject": "AIAutomateinternational",
+    "services": []
+  },
+  {
+    "id": "aiFinancePlatform",
+    "name": "Finance platform",
+    "sourceProject": "aiFinancePlatform",
+    "services": []
+  },
+  {
+    "id": "AiFinancialReportGenerator",
+    "name": "Financial report generator",
+    "sourceProject": "AiFinancialReportGenerator",
+    "services": []
+  },
+  {
+    "id": "AIPersonalFinanceMultiAgent",
+    "name": "Personal finance multi agent",
+    "sourceProject": "AIPersonalFinanceMultiAgent",
+    "services": []
+  },
+  {
+    "id": "financialServices",
+    "name": "Financial services",
+    "sourceProject": "financialServices",
+    "services": []
+  }
+]

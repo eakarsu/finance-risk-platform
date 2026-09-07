@@ -1,0 +1,2748 @@
+{
+  "mapped": [
+    {
+      "project": "ai-bnpl-merchant-settlement-reconciliation",
+      "sourceKey": "provider-agreement-library",
+      "source": "/Volumes/external/projects/ai-bnpl-merchant-settlement-reconciliation/app.config.mjs",
+      "canonical": "provider-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-bnpl-merchant-settlement-reconciliation",
+      "sourceKey": "order-installment-ingestion",
+      "source": "/Volumes/external/projects/ai-bnpl-merchant-settlement-reconciliation/app.config.mjs",
+      "canonical": "order-installment-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-bnpl-merchant-settlement-reconciliation",
+      "sourceKey": "capture-completion-matching",
+      "source": "/Volumes/external/projects/ai-bnpl-merchant-settlement-reconciliation/app.config.mjs",
+      "canonical": "capture-completion-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-bnpl-merchant-settlement-reconciliation",
+      "sourceKey": "cancellation-control",
+      "source": "/Volumes/external/projects/ai-bnpl-merchant-settlement-reconciliation/app.config.mjs",
+      "canonical": "cancellation-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-bnpl-merchant-settlement-reconciliation",
+      "sourceKey": "full-return-reconciliation",
+      "source": "/Volumes/external/projects/ai-bnpl-merchant-settlement-reconciliation/app.config.mjs",
+      "canonical": "full-return-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-bnpl-merchant-settlement-reconciliation",
+      "sourceKey": "partial-return-allocation",
+      "source": "/Volumes/external/projects/ai-bnpl-merchant-settlement-reconciliation/app.config.mjs",
+      "canonical": "partial-return-allocation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-bnpl-merchant-settlement-reconciliation",
+      "sourceKey": "merchant-discount-calculation",
+      "source": "/Volumes/external/projects/ai-bnpl-merchant-settlement-reconciliation/app.config.mjs",
+      "canonical": "merchant-discount-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-bnpl-merchant-settlement-reconciliation",
+      "sourceKey": "promotional-subsidy-calculation",
+      "source": "/Volumes/external/projects/ai-bnpl-merchant-settlement-reconciliation/app.config.mjs",
+      "canonical": "promotional-subsidy-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-bnpl-merchant-settlement-reconciliation",
+      "sourceKey": "consumer-dispute-allocation",
+      "source": "/Volumes/external/projects/ai-bnpl-merchant-settlement-reconciliation/app.config.mjs",
+      "canonical": "consumer-dispute-allocation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-bnpl-merchant-settlement-reconciliation",
+      "sourceKey": "reserve-hold-validation",
+      "source": "/Volumes/external/projects/ai-bnpl-merchant-settlement-reconciliation/app.config.mjs",
+      "canonical": "reserve-hold-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-bnpl-merchant-settlement-reconciliation",
+      "sourceKey": "settlement-statement-matching",
+      "source": "/Volumes/external/projects/ai-bnpl-merchant-settlement-reconciliation/app.config.mjs",
+      "canonical": "settlement-statement-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-bnpl-merchant-settlement-reconciliation",
+      "sourceKey": "missing-deposit-detection",
+      "source": "/Volumes/external/projects/ai-bnpl-merchant-settlement-reconciliation/app.config.mjs",
+      "canonical": "missing-deposit-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-bnpl-merchant-settlement-reconciliation",
+      "sourceKey": "provider-correction-workflow",
+      "source": "/Volumes/external/projects/ai-bnpl-merchant-settlement-reconciliation/app.config.mjs",
+      "canonical": "provider-correction-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-bnpl-merchant-settlement-reconciliation",
+      "sourceKey": "cash-reconciliation",
+      "source": "/Volumes/external/projects/ai-bnpl-merchant-settlement-reconciliation/app.config.mjs",
+      "canonical": "cash-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-bnpl-merchant-settlement-reconciliation",
+      "sourceKey": "provider-channel-analytics",
+      "source": "/Volumes/external/projects/ai-bnpl-merchant-settlement-reconciliation/app.config.mjs",
+      "canonical": "provider-channel-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-bnpl-merchant-settlement-reconciliation",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-bnpl-merchant-settlement-reconciliation/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-bnpl-merchant-settlement-reconciliation",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-bnpl-merchant-settlement-reconciliation/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-card-network-assessment-fee-audit",
+      "sourceKey": "network-fee-library",
+      "source": "/Volumes/external/projects/ai-card-network-assessment-fee-audit/app.config.mjs",
+      "canonical": "network-fee-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-card-network-assessment-fee-audit",
+      "sourceKey": "merchant-hierarchy",
+      "source": "/Volumes/external/projects/ai-card-network-assessment-fee-audit/app.config.mjs",
+      "canonical": "merchant-hierarchy",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-card-network-assessment-fee-audit",
+      "sourceKey": "transaction-volume-ingestion",
+      "source": "/Volumes/external/projects/ai-card-network-assessment-fee-audit/app.config.mjs",
+      "canonical": "transaction-volume-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-card-network-assessment-fee-audit",
+      "sourceKey": "domestic-cross-border-classification",
+      "source": "/Volumes/external/projects/ai-card-network-assessment-fee-audit/app.config.mjs",
+      "canonical": "domestic-cross-border-classification",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-card-network-assessment-fee-audit",
+      "sourceKey": "assessment-basis-calculation",
+      "source": "/Volumes/external/projects/ai-card-network-assessment-fee-audit/app.config.mjs",
+      "canonical": "assessment-basis-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-card-network-assessment-fee-audit",
+      "sourceKey": "switch-fee-validation",
+      "source": "/Volumes/external/projects/ai-card-network-assessment-fee-audit/app.config.mjs",
+      "canonical": "switch-fee-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-card-network-assessment-fee-audit",
+      "sourceKey": "token-service-fee-audit",
+      "source": "/Volumes/external/projects/ai-card-network-assessment-fee-audit/app.config.mjs",
+      "canonical": "token-service-fee-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-card-network-assessment-fee-audit",
+      "sourceKey": "account-updater-fee-audit",
+      "source": "/Volumes/external/projects/ai-card-network-assessment-fee-audit/app.config.mjs",
+      "canonical": "account-updater-fee-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-card-network-assessment-fee-audit",
+      "sourceKey": "authorization-fee-control",
+      "source": "/Volumes/external/projects/ai-card-network-assessment-fee-audit/app.config.mjs",
+      "canonical": "authorization-fee-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-card-network-assessment-fee-audit",
+      "sourceKey": "chargeback-fee-validation",
+      "source": "/Volumes/external/projects/ai-card-network-assessment-fee-audit/app.config.mjs",
+      "canonical": "chargeback-fee-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-card-network-assessment-fee-audit",
+      "sourceKey": "volume-tier-calculation",
+      "source": "/Volumes/external/projects/ai-card-network-assessment-fee-audit/app.config.mjs",
+      "canonical": "volume-tier-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-card-network-assessment-fee-audit",
+      "sourceKey": "processor-statement-matching",
+      "source": "/Volumes/external/projects/ai-card-network-assessment-fee-audit/app.config.mjs",
+      "canonical": "processor-statement-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-card-network-assessment-fee-audit",
+      "sourceKey": "credit-request-workflow",
+      "source": "/Volumes/external/projects/ai-card-network-assessment-fee-audit/app.config.mjs",
+      "canonical": "credit-request-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-card-network-assessment-fee-audit",
+      "sourceKey": "cash-reconciliation",
+      "source": "/Volumes/external/projects/ai-card-network-assessment-fee-audit/app.config.mjs",
+      "canonical": "cash-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-card-network-assessment-fee-audit",
+      "sourceKey": "network-merchant-analytics",
+      "source": "/Volumes/external/projects/ai-card-network-assessment-fee-audit/app.config.mjs",
+      "canonical": "network-merchant-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-card-network-assessment-fee-audit",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-card-network-assessment-fee-audit/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-card-network-assessment-fee-audit",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-card-network-assessment-fee-audit/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-corporate-card-rebate-fee-recovery",
+      "sourceKey": "issuer-agreement-library",
+      "source": "/Volumes/external/projects/ai-corporate-card-rebate-fee-recovery/app.config.mjs",
+      "canonical": "issuer-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-corporate-card-rebate-fee-recovery",
+      "sourceKey": "account-card-hierarchy",
+      "source": "/Volumes/external/projects/ai-corporate-card-rebate-fee-recovery/app.config.mjs",
+      "canonical": "account-card-hierarchy",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-corporate-card-rebate-fee-recovery",
+      "sourceKey": "transaction-ingestion",
+      "source": "/Volumes/external/projects/ai-corporate-card-rebate-fee-recovery/app.config.mjs",
+      "canonical": "transaction-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-corporate-card-rebate-fee-recovery",
+      "sourceKey": "eligible-spend-calculation",
+      "source": "/Volumes/external/projects/ai-corporate-card-rebate-fee-recovery/app.config.mjs",
+      "canonical": "eligible-spend-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-corporate-card-rebate-fee-recovery",
+      "sourceKey": "rebate-tier-calculation",
+      "source": "/Volumes/external/projects/ai-corporate-card-rebate-fee-recovery/app.config.mjs",
+      "canonical": "rebate-tier-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-corporate-card-rebate-fee-recovery",
+      "sourceKey": "growth-bonus-validation",
+      "source": "/Volumes/external/projects/ai-corporate-card-rebate-fee-recovery/app.config.mjs",
+      "canonical": "growth-bonus-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-corporate-card-rebate-fee-recovery",
+      "sourceKey": "large-ticket-adjustment",
+      "source": "/Volumes/external/projects/ai-corporate-card-rebate-fee-recovery/app.config.mjs",
+      "canonical": "large-ticket-adjustment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-corporate-card-rebate-fee-recovery",
+      "sourceKey": "virtual-card-analysis",
+      "source": "/Volumes/external/projects/ai-corporate-card-rebate-fee-recovery/app.config.mjs",
+      "canonical": "virtual-card-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-corporate-card-rebate-fee-recovery",
+      "sourceKey": "ghost-card-analysis",
+      "source": "/Volumes/external/projects/ai-corporate-card-rebate-fee-recovery/app.config.mjs",
+      "canonical": "ghost-card-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-corporate-card-rebate-fee-recovery",
+      "sourceKey": "foreign-exchange-fee-audit",
+      "source": "/Volumes/external/projects/ai-corporate-card-rebate-fee-recovery/app.config.mjs",
+      "canonical": "foreign-exchange-fee-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-corporate-card-rebate-fee-recovery",
+      "sourceKey": "late-fee-validation",
+      "source": "/Volumes/external/projects/ai-corporate-card-rebate-fee-recovery/app.config.mjs",
+      "canonical": "late-fee-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-corporate-card-rebate-fee-recovery",
+      "sourceKey": "intercompany-exclusion-control",
+      "source": "/Volumes/external/projects/ai-corporate-card-rebate-fee-recovery/app.config.mjs",
+      "canonical": "intercompany-exclusion-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-corporate-card-rebate-fee-recovery",
+      "sourceKey": "statement-reconciliation",
+      "source": "/Volumes/external/projects/ai-corporate-card-rebate-fee-recovery/app.config.mjs",
+      "canonical": "statement-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-corporate-card-rebate-fee-recovery",
+      "sourceKey": "issuer-claim-workflow",
+      "source": "/Volumes/external/projects/ai-corporate-card-rebate-fee-recovery/app.config.mjs",
+      "canonical": "issuer-claim-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-corporate-card-rebate-fee-recovery",
+      "sourceKey": "rebate-cash-reconciliation",
+      "source": "/Volumes/external/projects/ai-corporate-card-rebate-fee-recovery/app.config.mjs",
+      "canonical": "rebate-cash-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-corporate-card-rebate-fee-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-corporate-card-rebate-fee-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-corporate-card-rebate-fee-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-corporate-card-rebate-fee-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-acquiring-interchange-fee-recovery",
+      "sourceKey": "processor-agreement-library",
+      "source": "/Volumes/external/projects/ai-merchant-acquiring-interchange-fee-recovery/app.config.mjs",
+      "canonical": "processor-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-acquiring-interchange-fee-recovery",
+      "sourceKey": "merchant-account-registry",
+      "source": "/Volumes/external/projects/ai-merchant-acquiring-interchange-fee-recovery/app.config.mjs",
+      "canonical": "merchant-account-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-acquiring-interchange-fee-recovery",
+      "sourceKey": "card-transaction-ingestion",
+      "source": "/Volumes/external/projects/ai-merchant-acquiring-interchange-fee-recovery/app.config.mjs",
+      "canonical": "card-transaction-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-acquiring-interchange-fee-recovery",
+      "sourceKey": "interchange-qualification-reconstruction",
+      "source": "/Volumes/external/projects/ai-merchant-acquiring-interchange-fee-recovery/app.config.mjs",
+      "canonical": "interchange-qualification-reconstruction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-acquiring-interchange-fee-recovery",
+      "sourceKey": "card-brand-assessment-validation",
+      "source": "/Volumes/external/projects/ai-merchant-acquiring-interchange-fee-recovery/app.config.mjs",
+      "canonical": "card-brand-assessment-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-acquiring-interchange-fee-recovery",
+      "sourceKey": "processor-markup-reconciliation",
+      "source": "/Volumes/external/projects/ai-merchant-acquiring-interchange-fee-recovery/app.config.mjs",
+      "canonical": "processor-markup-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-acquiring-interchange-fee-recovery",
+      "sourceKey": "downgrade-detection",
+      "source": "/Volumes/external/projects/ai-merchant-acquiring-interchange-fee-recovery/app.config.mjs",
+      "canonical": "downgrade-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-acquiring-interchange-fee-recovery",
+      "sourceKey": "duplicate-fee-detection",
+      "source": "/Volumes/external/projects/ai-merchant-acquiring-interchange-fee-recovery/app.config.mjs",
+      "canonical": "duplicate-fee-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-acquiring-interchange-fee-recovery",
+      "sourceKey": "refund-and-reversal-fee-audit",
+      "source": "/Volumes/external/projects/ai-merchant-acquiring-interchange-fee-recovery/app.config.mjs",
+      "canonical": "refund-and-reversal-fee-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-acquiring-interchange-fee-recovery",
+      "sourceKey": "cross-border-and-currency-fee-audit",
+      "source": "/Volumes/external/projects/ai-merchant-acquiring-interchange-fee-recovery/app.config.mjs",
+      "canonical": "cross-border-and-currency-fee-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-acquiring-interchange-fee-recovery",
+      "sourceKey": "tokenization-qualification-analysis",
+      "source": "/Volumes/external/projects/ai-merchant-acquiring-interchange-fee-recovery/app.config.mjs",
+      "canonical": "tokenization-qualification-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-acquiring-interchange-fee-recovery",
+      "sourceKey": "chargeback-fee-reconciliation",
+      "source": "/Volumes/external/projects/ai-merchant-acquiring-interchange-fee-recovery/app.config.mjs",
+      "canonical": "chargeback-fee-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-acquiring-interchange-fee-recovery",
+      "sourceKey": "monthly-statement-audit",
+      "source": "/Volumes/external/projects/ai-merchant-acquiring-interchange-fee-recovery/app.config.mjs",
+      "canonical": "monthly-statement-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-acquiring-interchange-fee-recovery",
+      "sourceKey": "processor-dispute-package",
+      "source": "/Volumes/external/projects/ai-merchant-acquiring-interchange-fee-recovery/app.config.mjs",
+      "canonical": "processor-dispute-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-acquiring-interchange-fee-recovery",
+      "sourceKey": "recovered-fee-ledger",
+      "source": "/Volumes/external/projects/ai-merchant-acquiring-interchange-fee-recovery/app.config.mjs",
+      "canonical": "recovered-fee-ledger",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-acquiring-interchange-fee-recovery",
+      "sourceKey": "processor-channel-and-location-analytics",
+      "source": "/Volumes/external/projects/ai-merchant-acquiring-interchange-fee-recovery/app.config.mjs",
+      "canonical": "processor-channel-and-location-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-acquiring-interchange-fee-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-merchant-acquiring-interchange-fee-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-acquiring-interchange-fee-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-merchant-acquiring-interchange-fee-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-chargeback-vamp-control-center",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-merchant-chargeback-vamp-control-center/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-chargeback-vamp-control-center",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-merchant-chargeback-vamp-control-center/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-chargeback-vamp-control-center",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-merchant-chargeback-vamp-control-center/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-chargeback-vamp-control-center",
+      "sourceKey": "/portfolio",
+      "source": "/Volumes/external/projects/ai-merchant-chargeback-vamp-control-center/src/config/app.ts",
+      "canonical": "portfolio",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-chargeback-vamp-control-center",
+      "sourceKey": "/disputes",
+      "source": "/Volumes/external/projects/ai-merchant-chargeback-vamp-control-center/src/config/app.ts",
+      "canonical": "disputes",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-chargeback-vamp-control-center",
+      "sourceKey": "/prevention",
+      "source": "/Volumes/external/projects/ai-merchant-chargeback-vamp-control-center/src/config/app.ts",
+      "canonical": "prevention",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-chargeback-vamp-control-center",
+      "sourceKey": "/recovery",
+      "source": "/Volumes/external/projects/ai-merchant-chargeback-vamp-control-center/src/config/app.ts",
+      "canonical": "recovery",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-chargeback-vamp-control-center",
+      "sourceKey": "Merchant",
+      "source": "/Volumes/external/projects/ai-merchant-chargeback-vamp-control-center/src/config/app.ts",
+      "canonical": "merchant",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-chargeback-vamp-control-center",
+      "sourceKey": "TransactionRecord",
+      "source": "/Volumes/external/projects/ai-merchant-chargeback-vamp-control-center/src/config/app.ts",
+      "canonical": "transaction-record",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-chargeback-vamp-control-center",
+      "sourceKey": "Dispute",
+      "source": "/Volumes/external/projects/ai-merchant-chargeback-vamp-control-center/src/config/app.ts",
+      "canonical": "dispute",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-chargeback-vamp-control-center",
+      "sourceKey": "RepresentmentPackage",
+      "source": "/Volumes/external/projects/ai-merchant-chargeback-vamp-control-center/src/config/app.ts",
+      "canonical": "representment-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-chargeback-vamp-control-center",
+      "sourceKey": "EvidenceItem",
+      "source": "/Volumes/external/projects/ai-merchant-chargeback-vamp-control-center/src/config/app.ts",
+      "canonical": "evidence-item",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-chargeback-vamp-control-center",
+      "sourceKey": "FraudSignal",
+      "source": "/Volumes/external/projects/ai-merchant-chargeback-vamp-control-center/src/config/app.ts",
+      "canonical": "fraud-signal",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-chargeback-vamp-control-center",
+      "sourceKey": "VampRatioSnapshot",
+      "source": "/Volumes/external/projects/ai-merchant-chargeback-vamp-control-center/src/config/app.ts",
+      "canonical": "vamp-ratio-snapshot",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-chargeback-vamp-control-center",
+      "sourceKey": "PreventionRule",
+      "source": "/Volumes/external/projects/ai-merchant-chargeback-vamp-control-center/src/config/app.ts",
+      "canonical": "prevention-rule",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-chargeback-vamp-control-center",
+      "sourceKey": "RecoveryPayout",
+      "source": "/Volumes/external/projects/ai-merchant-chargeback-vamp-control-center/src/config/app.ts",
+      "canonical": "recovery-payout",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-chargeback-vamp-control-center",
+      "sourceKey": "AlertEvent",
+      "source": "/Volumes/external/projects/ai-merchant-chargeback-vamp-control-center/src/config/app.ts",
+      "canonical": "alert-event",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-chargeback-vamp-control-center",
+      "sourceKey": "AcquirerReport",
+      "source": "/Volumes/external/projects/ai-merchant-chargeback-vamp-control-center/src/config/app.ts",
+      "canonical": "acquirer-report",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-chargeback-vamp-control-center",
+      "sourceKey": "CaseNote",
+      "source": "/Volumes/external/projects/ai-merchant-chargeback-vamp-control-center/src/config/app.ts",
+      "canonical": "case-note",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-chargeback-vamp-control-center",
+      "sourceKey": "representment-builder",
+      "source": "/Volumes/external/projects/ai-merchant-chargeback-vamp-control-center/src/config/app.ts",
+      "canonical": "representment-builder",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-chargeback-vamp-control-center",
+      "sourceKey": "vamp-forecast",
+      "source": "/Volumes/external/projects/ai-merchant-chargeback-vamp-control-center/src/config/app.ts",
+      "canonical": "vamp-forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-merchant-chargeback-vamp-control-center",
+      "sourceKey": "dispute-pattern",
+      "source": "/Volumes/external/projects/ai-merchant-chargeback-vamp-control-center/src/config/app.ts",
+      "canonical": "dispute-pattern",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payment-processor-fee-settlement-audit",
+      "sourceKey": "processor-agreement-library",
+      "source": "/Volumes/external/projects/ai-payment-processor-fee-settlement-audit/app.config.mjs",
+      "canonical": "processor-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payment-processor-fee-settlement-audit",
+      "sourceKey": "merchant-account-registry",
+      "source": "/Volumes/external/projects/ai-payment-processor-fee-settlement-audit/app.config.mjs",
+      "canonical": "merchant-account-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payment-processor-fee-settlement-audit",
+      "sourceKey": "authorization-capture-ingestion",
+      "source": "/Volumes/external/projects/ai-payment-processor-fee-settlement-audit/app.config.mjs",
+      "canonical": "authorization-capture-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payment-processor-fee-settlement-audit",
+      "sourceKey": "refund-chargeback-ingestion",
+      "source": "/Volumes/external/projects/ai-payment-processor-fee-settlement-audit/app.config.mjs",
+      "canonical": "refund-chargeback-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payment-processor-fee-settlement-audit",
+      "sourceKey": "pricing-model-reconstruction",
+      "source": "/Volumes/external/projects/ai-payment-processor-fee-settlement-audit/app.config.mjs",
+      "canonical": "pricing-model-reconstruction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payment-processor-fee-settlement-audit",
+      "sourceKey": "markup-fee-calculation",
+      "source": "/Volumes/external/projects/ai-payment-processor-fee-settlement-audit/app.config.mjs",
+      "canonical": "markup-fee-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payment-processor-fee-settlement-audit",
+      "sourceKey": "gateway-fee-validation",
+      "source": "/Volumes/external/projects/ai-payment-processor-fee-settlement-audit/app.config.mjs",
+      "canonical": "gateway-fee-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payment-processor-fee-settlement-audit",
+      "sourceKey": "minimum-fee-control",
+      "source": "/Volumes/external/projects/ai-payment-processor-fee-settlement-audit/app.config.mjs",
+      "canonical": "minimum-fee-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payment-processor-fee-settlement-audit",
+      "sourceKey": "reserve-holdback-reconciliation",
+      "source": "/Volumes/external/projects/ai-payment-processor-fee-settlement-audit/app.config.mjs",
+      "canonical": "reserve-holdback-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payment-processor-fee-settlement-audit",
+      "sourceKey": "settlement-timing-audit",
+      "source": "/Volumes/external/projects/ai-payment-processor-fee-settlement-audit/app.config.mjs",
+      "canonical": "settlement-timing-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payment-processor-fee-settlement-audit",
+      "sourceKey": "deposit-to-batch-matching",
+      "source": "/Volumes/external/projects/ai-payment-processor-fee-settlement-audit/app.config.mjs",
+      "canonical": "deposit-to-batch-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payment-processor-fee-settlement-audit",
+      "sourceKey": "missing-settlement-detection",
+      "source": "/Volumes/external/projects/ai-payment-processor-fee-settlement-audit/app.config.mjs",
+      "canonical": "missing-settlement-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payment-processor-fee-settlement-audit",
+      "sourceKey": "processor-dispute-workflow",
+      "source": "/Volumes/external/projects/ai-payment-processor-fee-settlement-audit/app.config.mjs",
+      "canonical": "processor-dispute-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payment-processor-fee-settlement-audit",
+      "sourceKey": "cash-recovery-ledger",
+      "source": "/Volumes/external/projects/ai-payment-processor-fee-settlement-audit/app.config.mjs",
+      "canonical": "cash-recovery-ledger",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payment-processor-fee-settlement-audit",
+      "sourceKey": "account-processor-analytics",
+      "source": "/Volumes/external/projects/ai-payment-processor-fee-settlement-audit/app.config.mjs",
+      "canonical": "account-processor-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payment-processor-fee-settlement-audit",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-payment-processor-fee-settlement-audit/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-payment-processor-fee-settlement-audit",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-payment-processor-fee-settlement-audit/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/customers",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/accounts",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "accounts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/transactions",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "transactions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/alerts",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "alerts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/sar-cases",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "sar-cases",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/edd-cases",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "edd-cases",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/investigations",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "investigations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/watchlists",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "watchlists",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/sanctions-hits",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "sanctions-hits",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/peps",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "peps",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/ctrs",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "ctrs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/regulatory-filings",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "regulatory-filings",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/kyc-profiles",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "kyc-profiles",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/source-of-funds",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "source-of-funds",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/beneficial-owners",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "beneficial-owners",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/typologies",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "typologies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/jurisdictions",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "jurisdictions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/audit-log",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/ai/typology-detect",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "typology-detect",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/ai/transaction-anomaly",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "transaction-anomaly",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/ai/sanction-name-match",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "sanction-name-match",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/ai/false-positive-classifier",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "false-positive-classifier",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/ai/sar-narrative-draft",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "sar-narrative-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/ai/investigation-summary",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "investigation-summary",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/ai/network-analysis",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "network-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/ai/beneficial-owner-trace",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "beneficial-owner-trace",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/ai/source-of-funds-explain",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "source-of-funds-explain",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/ai/edd-questionnaire",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "edd-questionnaire",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/ai/executive-brief",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "executive-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/ai/regulatory-filing-draft",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "regulatory-filing-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/ai/customer-risk-score",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "customer-risk-score",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/ai/peer-group-compare",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "peer-group-compare",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/ai/jurisdictional-risk",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "jurisdictional-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "/ai/kyc-refresh-summary",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring/frontend/src/pages/Dashboard.js",
+      "canonical": "kyc-refresh-summary",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "ai/adverse-media-screen",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring",
+      "canonical": "adverse-media-screen",
+      "kind": "route"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "ai/kyc-onboarding-prescreen",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring",
+      "canonical": "kyc-onboarding-prescreen",
+      "kind": "route"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "peer-benchmarks",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring",
+      "canonical": "peer-benchmarks",
+      "kind": "route"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "ingestion",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring",
+      "canonical": "ingestion",
+      "kind": "route"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "case-workflow",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring",
+      "canonical": "case-workflow",
+      "kind": "route"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "escalation",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring",
+      "canonical": "escalation",
+      "kind": "route"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "fincen-exports",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring",
+      "canonical": "fincen-exports",
+      "kind": "route"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "advisory-actions",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring",
+      "canonical": "advisory-actions",
+      "kind": "route"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "structuring-risk",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring",
+      "canonical": "structuring-risk",
+      "kind": "route"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "webhooks",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "sourceKey": "production-controls",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring",
+      "canonical": "production-controls",
+      "kind": "route"
+    },
+    {
+      "project": "AIAntiFraud",
+      "sourceKey": "/transactions",
+      "source": "/Volumes/external/projects/AIAntiFraud/client/src/App.js",
+      "canonical": "transactions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAntiFraud",
+      "sourceKey": "/fraud-rules",
+      "source": "/Volumes/external/projects/AIAntiFraud/client/src/App.js",
+      "canonical": "fraud-rules",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAntiFraud",
+      "sourceKey": "/fraud-alerts",
+      "source": "/Volumes/external/projects/AIAntiFraud/client/src/App.js",
+      "canonical": "fraud-alerts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAntiFraud",
+      "sourceKey": "/credit-scores",
+      "source": "/Volumes/external/projects/AIAntiFraud/client/src/App.js",
+      "canonical": "credit-scores",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAntiFraud",
+      "sourceKey": "/risk-models",
+      "source": "/Volumes/external/projects/AIAntiFraud/client/src/App.js",
+      "canonical": "risk-models",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAntiFraud",
+      "sourceKey": "/watchlist",
+      "source": "/Volumes/external/projects/AIAntiFraud/client/src/App.js",
+      "canonical": "watchlist",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAntiFraud",
+      "sourceKey": "/audit-log",
+      "source": "/Volumes/external/projects/AIAntiFraud/client/src/App.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAntiFraud",
+      "sourceKey": "/behavioral-patterns",
+      "source": "/Volumes/external/projects/AIAntiFraud/client/src/App.js",
+      "canonical": "behavioral-patterns",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAntiFraud",
+      "sourceKey": "/merchant-profiles",
+      "source": "/Volumes/external/projects/AIAntiFraud/client/src/App.js",
+      "canonical": "merchant-profiles",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAntiFraud",
+      "sourceKey": "/ai-results",
+      "source": "/Volumes/external/projects/AIAntiFraud/client/src/App.js",
+      "canonical": "results",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAntiFraud",
+      "sourceKey": "/rule-suggestions",
+      "source": "/Volumes/external/projects/AIAntiFraud/client/src/App.js",
+      "canonical": "rule-suggestions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAntiFraud",
+      "sourceKey": "/cases",
+      "source": "/Volumes/external/projects/AIAntiFraud/client/src/App.js",
+      "canonical": "matters",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAntiFraud",
+      "sourceKey": "/chargebacks",
+      "source": "/Volumes/external/projects/AIAntiFraud/client/src/App.js",
+      "canonical": "chargebacks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAntiFraud",
+      "sourceKey": "/refund-abuse-risk",
+      "source": "/Volumes/external/projects/AIAntiFraud/client/src/App.js",
+      "canonical": "refund-abuse-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAntiFraud",
+      "sourceKey": "/production-controls",
+      "source": "/Volumes/external/projects/AIAntiFraud/client/src/App.js",
+      "canonical": "production-controls",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAntiFraud",
+      "sourceKey": "/users",
+      "source": "/Volumes/external/projects/AIAntiFraud/client/src/App.js",
+      "canonical": "users",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateinternational",
+      "sourceKey": "/transfers",
+      "source": "/Volumes/external/projects/AIAutomateinternational/frontend/src/pages/Dashboard.jsx",
+      "canonical": "transfers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateinternational",
+      "sourceKey": "/beneficiaries",
+      "source": "/Volumes/external/projects/AIAutomateinternational/frontend/src/pages/Dashboard.jsx",
+      "canonical": "beneficiaries",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateinternational",
+      "sourceKey": "/currencies",
+      "source": "/Volumes/external/projects/AIAutomateinternational/frontend/src/pages/Dashboard.jsx",
+      "canonical": "currencies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateinternational",
+      "sourceKey": "/transactions",
+      "source": "/Volumes/external/projects/AIAutomateinternational/frontend/src/pages/Dashboard.jsx",
+      "canonical": "transactions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateinternational",
+      "sourceKey": "/chat",
+      "source": "/Volumes/external/projects/AIAutomateinternational/frontend/src/pages/Dashboard.jsx",
+      "canonical": "chat",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateinternational",
+      "sourceKey": "/templates",
+      "source": "/Volumes/external/projects/AIAutomateinternational/frontend/src/pages/Dashboard.jsx",
+      "canonical": "templates",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateinternational",
+      "sourceKey": "/alerts",
+      "source": "/Volumes/external/projects/AIAutomateinternational/frontend/src/pages/Dashboard.jsx",
+      "canonical": "alerts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateinternational",
+      "sourceKey": "/customers",
+      "source": "/Volumes/external/projects/AIAutomateinternational/frontend/src/pages/Dashboard.jsx",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateinternational",
+      "sourceKey": "/ai/fee-calculator",
+      "source": "/Volumes/external/projects/AIAutomateinternational/frontend/src/pages/Dashboard.jsx",
+      "canonical": "fee-calculator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateinternational",
+      "sourceKey": "/ai/risk-assessment",
+      "source": "/Volumes/external/projects/AIAutomateinternational/frontend/src/pages/Dashboard.jsx",
+      "canonical": "risk-assessment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateinternational",
+      "sourceKey": "/ai/kyc-screen",
+      "source": "/Volumes/external/projects/AIAutomateinternational/frontend/src/pages/Dashboard.jsx",
+      "canonical": "kyc-screen",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateinternational",
+      "sourceKey": "/ai/rate-analyzer",
+      "source": "/Volumes/external/projects/AIAutomateinternational/frontend/src/pages/Dashboard.jsx",
+      "canonical": "rate-analyzer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateinternational",
+      "sourceKey": "/ai/beneficiary-risk",
+      "source": "/Volumes/external/projects/AIAutomateinternational/frontend/src/pages/Dashboard.jsx",
+      "canonical": "beneficiary-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateinternational",
+      "sourceKey": "/ai/route-optimizer",
+      "source": "/Volumes/external/projects/AIAutomateinternational/frontend/src/pages/Dashboard.jsx",
+      "canonical": "route-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateinternational",
+      "sourceKey": "/ai/split-planner",
+      "source": "/Volumes/external/projects/AIAutomateinternational/frontend/src/pages/Dashboard.jsx",
+      "canonical": "split-planner",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateinternational",
+      "sourceKey": "/ai/fraud-check",
+      "source": "/Volumes/external/projects/AIAutomateinternational/frontend/src/pages/Dashboard.jsx",
+      "canonical": "fraud-check",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateinternational",
+      "sourceKey": "/ai/receipts",
+      "source": "/Volumes/external/projects/AIAutomateinternational/frontend/src/pages/Dashboard.jsx",
+      "canonical": "receipts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAutomateinternational",
+      "sourceKey": "kyc-screen",
+      "source": "/Volumes/external/projects/AIAutomateinternational",
+      "canonical": "kyc-screen",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomateinternational",
+      "sourceKey": "rate-analysis",
+      "source": "/Volumes/external/projects/AIAutomateinternational",
+      "canonical": "rate-analysis",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomateinternational",
+      "sourceKey": "beneficiary-risk",
+      "source": "/Volumes/external/projects/AIAutomateinternational",
+      "canonical": "beneficiary-risk",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomateinternational",
+      "sourceKey": "route-optimize",
+      "source": "/Volumes/external/projects/AIAutomateinternational",
+      "canonical": "route-optimize",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomateinternational",
+      "sourceKey": "split-plan",
+      "source": "/Volumes/external/projects/AIAutomateinternational",
+      "canonical": "split-plan",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomateinternational",
+      "sourceKey": "fraud-check",
+      "source": "/Volumes/external/projects/AIAutomateinternational",
+      "canonical": "fraud-check",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomateinternational",
+      "sourceKey": "webhooks",
+      "source": "/Volumes/external/projects/AIAutomateinternational",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomateinternational",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/AIAutomateinternational",
+      "canonical": "connections",
+      "kind": "route"
+    },
+    {
+      "project": "AIAutomateinternational",
+      "sourceKey": "corridor-liquidity-risk",
+      "source": "/Volumes/external/projects/AIAutomateinternational",
+      "canonical": "corridor-liquidity-risk",
+      "kind": "route"
+    },
+    {
+      "project": "aiFinancePlatform",
+      "sourceKey": "cash-buffer-stress",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "canonical": "cash-buffer-stress",
+      "kind": "route"
+    },
+    {
+      "project": "aiFinancePlatform",
+      "sourceKey": "robo-advisor",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "canonical": "robo-advisor",
+      "kind": "route"
+    },
+    {
+      "project": "aiFinancePlatform",
+      "sourceKey": "credit-scoring",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "canonical": "credit-scoring",
+      "kind": "route"
+    },
+    {
+      "project": "aiFinancePlatform",
+      "sourceKey": "fraud-detection",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "canonical": "fraud-check",
+      "kind": "route"
+    },
+    {
+      "project": "aiFinancePlatform",
+      "sourceKey": "portfolio-dashboard",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "canonical": "portfolio-dashboard",
+      "kind": "route"
+    },
+    {
+      "project": "aiFinancePlatform",
+      "sourceKey": "risk-assessment",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "canonical": "risk-assessment",
+      "kind": "route"
+    },
+    {
+      "project": "aiFinancePlatform",
+      "sourceKey": "alerts",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "canonical": "alerts",
+      "kind": "route"
+    },
+    {
+      "project": "aiFinancePlatform",
+      "sourceKey": "import",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "canonical": "import",
+      "kind": "route"
+    },
+    {
+      "project": "aiFinancePlatform",
+      "sourceKey": "stock-screener",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "canonical": "stock-screener",
+      "kind": "route"
+    },
+    {
+      "project": "aiFinancePlatform",
+      "sourceKey": "crypto-analyzer",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "canonical": "crypto-analyzer",
+      "kind": "route"
+    },
+    {
+      "project": "aiFinancePlatform",
+      "sourceKey": "loan-advisor",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "canonical": "loan-advisor",
+      "kind": "route"
+    },
+    {
+      "project": "aiFinancePlatform",
+      "sourceKey": "insurance-optimizer",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "canonical": "insurance-optimizer",
+      "kind": "route"
+    },
+    {
+      "project": "aiFinancePlatform",
+      "sourceKey": "retirement-planner",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "canonical": "retirement-planner",
+      "kind": "route"
+    },
+    {
+      "project": "aiFinancePlatform",
+      "sourceKey": "budget-coach",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "canonical": "budget-coach",
+      "kind": "route"
+    },
+    {
+      "project": "aiFinancePlatform",
+      "sourceKey": "goal-tracker",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "canonical": "goal-tracker",
+      "kind": "route"
+    },
+    {
+      "project": "aiFinancePlatform",
+      "sourceKey": "bill-negotiator",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "canonical": "bill-negotiator",
+      "kind": "route"
+    },
+    {
+      "project": "aiFinancePlatform",
+      "sourceKey": "asset-allocation",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "canonical": "asset-allocation",
+      "kind": "route"
+    },
+    {
+      "project": "aiFinancePlatform",
+      "sourceKey": "rebalancing-suggest",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "canonical": "rebalancing-suggest",
+      "kind": "route"
+    },
+    {
+      "project": "aiFinancePlatform",
+      "sourceKey": "budget-optimize",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "canonical": "budget-optimize",
+      "kind": "route"
+    },
+    {
+      "project": "aiFinancePlatform",
+      "sourceKey": "stock-recommend",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "canonical": "stock-recommend",
+      "kind": "route"
+    },
+    {
+      "project": "aiFinancePlatform",
+      "sourceKey": "insurance-recommend",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "canonical": "insurance-recommend",
+      "kind": "route"
+    },
+    {
+      "project": "aiFinancePlatform",
+      "sourceKey": "retirement-project",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "canonical": "retirement-project",
+      "kind": "route"
+    },
+    {
+      "project": "aiFinancePlatform",
+      "sourceKey": "advanced-tools",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "canonical": "advanced-tools",
+      "kind": "route"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/ai-chat",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "chat",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/financial-statements",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "financial-statements",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/profit-loss",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "profit-loss",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/balance-sheets",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "balance-sheets",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/cash-flow",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "cash-flow",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/revenue-recognition-drift",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "revenue-recognition-drift",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/revenue-forecasts",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "revenue-forecasts",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/trend-analyses",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "trend-analyses",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/kpi-metrics",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "kpi-metrics",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/expense-records",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "expense-records",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/budget-actuals",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "budget-actuals",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/ai-insights",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "insights",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/anomaly-detections",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "anomaly-detections",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/compliance-reports",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "compliance-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/tax-reports",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "tax-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/generate-report",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "generate-report",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/custom-reports",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "custom-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/audit-logs",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/financial-ratios",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "financial-ratios",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/natural-language-query",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "natural-language-query",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/peer-comparison",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "peer-comparison",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/export-data",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "export-data",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/scheduled-reports",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "scheduled-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/scenario-analysis",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "scenario-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/dcf-valuation",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "dcf-valuation",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/monte-carlo",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "monte-carlo",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/capital-budgeting",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "capital-budgeting",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/break-even",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "break-even",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/working-capital",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "working-capital",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/ai-presentations",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "presentations",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/ai-variance-explainer",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "variance-explainer",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/ai-forecast-generator",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "forecast-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/ai-audit-analyzer",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "audit-analyzer",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/ai-board-reports",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "board-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/ai-expense-categorizer",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "expense-categorizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/ai-audit-readiness",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "audit-readiness",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/ai-covenant-tracking",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "covenant-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/ai-segment-analysis",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "segment-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "/ai-responses",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "canonical": "results",
+      "kind": "definition"
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "sourceKey": "ai-backlog-tools",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator",
+      "canonical": "backlog-tools",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "sourceKey": "accounts",
+      "source": "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+      "canonical": "accounts",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "sourceKey": "transactions",
+      "source": "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+      "canonical": "transactions",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "sourceKey": "subscriptions",
+      "source": "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+      "canonical": "subscriptions",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "sourceKey": "budgets",
+      "source": "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+      "canonical": "budgets",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "sourceKey": "agents",
+      "source": "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+      "canonical": "agents",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "sourceKey": "cf-autonomous-budget-agent",
+      "source": "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+      "canonical": "autonomous-budget-agent",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "sourceKey": "cf-subscription-analyzer",
+      "source": "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+      "canonical": "subscription-analyzer",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "sourceKey": "cf-financial-goal-orchestration",
+      "source": "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+      "canonical": "financial-goal-orchestration",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "sourceKey": "cf-expense-anomaly-detection",
+      "source": "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+      "canonical": "expense-anomaly-detection",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "sourceKey": "cf-cashflow-forecasting",
+      "source": "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+      "canonical": "cashflow-forecasting",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "sourceKey": "debt-snowball-planner",
+      "source": "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+      "canonical": "debt-snowball-planner",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "sourceKey": "gap-the-agents-js-route-is-unfulfilled",
+      "source": "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+      "canonical": "the-agents-js-route-is-unfulfilled",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "sourceKey": "gap-transactions-without-categorize",
+      "source": "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+      "canonical": "transactions-without-categorize",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "sourceKey": "gap-budgets-without-budget",
+      "source": "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+      "canonical": "budgets-without-budget",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "sourceKey": "gap-subscriptions-without-subscription",
+      "source": "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+      "canonical": "subscriptions-without-subscription",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "sourceKey": "gap-accounts-without-net",
+      "source": "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+      "canonical": "accounts-without-net",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "sourceKey": "gap-no-bank-credit-card-sync-plaid-mx",
+      "source": "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+      "canonical": "bank-credit-card-sync-plaid-mx",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "sourceKey": "gap-no-investment-portfolio-tracking",
+      "source": "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+      "canonical": "investment-portfolio-tracking",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "sourceKey": "gap-no-tax-planning-module",
+      "source": "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+      "canonical": "tax-planning-module",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "sourceKey": "gap-limited-spending-analytics-no-aggregations-beyond-",
+      "source": "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+      "canonical": "limited-spending-analytics-no-aggregations-beyond",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "sourceKey": "gap-no-bill-pay-integration",
+      "source": "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+      "canonical": "bill-pay-integration",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "sourceKey": "gap-no-notifications-layer-grep-0",
+      "source": "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+      "canonical": "notifications-layer-grep-0",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "sourceKey": "gap-no-webhooks-for-transaction-events",
+      "source": "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+      "canonical": "webhooks-for-transaction-events",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "sourceKey": "gap-no-mobile-app",
+      "source": "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+      "canonical": "mobile-app",
+      "kind": "route"
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "sourceKey": "gap-only-7-frontend-pages",
+      "source": "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+      "canonical": "only-7-frontend-pages",
+      "kind": "route"
+    },
+    {
+      "project": "financialServices",
+      "sourceKey": "/dashboard/clients",
+      "source": "/Volumes/external/projects/financialServices/src/components/layout/Sidebar.tsx",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "financialServices",
+      "sourceKey": "/dashboard/documents",
+      "source": "/Volumes/external/projects/financialServices/src/components/layout/Sidebar.tsx",
+      "canonical": "documents",
+      "kind": "definition"
+    },
+    {
+      "project": "financialServices",
+      "sourceKey": "/dashboard/bookkeeping",
+      "source": "/Volumes/external/projects/financialServices/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-bookkeeping",
+      "kind": "definition"
+    },
+    {
+      "project": "financialServices",
+      "sourceKey": "/dashboard/tax",
+      "source": "/Volumes/external/projects/financialServices/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-tax",
+      "kind": "definition"
+    },
+    {
+      "project": "financialServices",
+      "sourceKey": "/dashboard/payroll",
+      "source": "/Volumes/external/projects/financialServices/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-payroll",
+      "kind": "definition"
+    },
+    {
+      "project": "financialServices",
+      "sourceKey": "/dashboard/reports",
+      "source": "/Volumes/external/projects/financialServices/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "financialServices",
+      "sourceKey": "/dashboard/client-profitability",
+      "source": "/Volumes/external/projects/financialServices/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-client-profitability",
+      "kind": "definition"
+    },
+    {
+      "project": "financialServices",
+      "sourceKey": "/dashboard/practice",
+      "source": "/Volumes/external/projects/financialServices/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-practice",
+      "kind": "definition"
+    },
+    {
+      "project": "financialServices",
+      "sourceKey": "/dashboard/integrations",
+      "source": "/Volumes/external/projects/financialServices/src/components/layout/Sidebar.tsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "financialServices",
+      "sourceKey": "/dashboard/calendar",
+      "source": "/Volumes/external/projects/financialServices/src/components/layout/Sidebar.tsx",
+      "canonical": "calendar",
+      "kind": "definition"
+    },
+    {
+      "project": "financialServices",
+      "sourceKey": "/dashboard/settings",
+      "source": "/Volumes/external/projects/financialServices/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-settings",
+      "kind": "definition"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "ai-bnpl-merchant-settlement-reconciliation",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-bnpl-merchant-settlement-reconciliation/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-card-network-assessment-fee-audit",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-card-network-assessment-fee-audit/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-corporate-card-rebate-fee-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-corporate-card-rebate-fee-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-merchant-acquiring-interchange-fee-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-merchant-acquiring-interchange-fee-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-payment-processor-fee-settlement-audit",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-payment-processor-fee-settlement-audit/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIAMLTransactionMonitoring",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAMLTransactionMonitoring",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAntiFraud",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIAntiFraud/client/src/App.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAntiFraud",
+      "key": "/ai-tools",
+      "source": "/Volumes/external/projects/AIAntiFraud/client/src/App.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAntiFraud",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAntiFraud",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/AIAntiFraud",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAntiFraud",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIAntiFraud",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAntiFraud",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIAntiFraud",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAntiFraud",
+      "key": "/fraud-alerts/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAntiFraud",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIAntiFraud",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAntiFraud",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAutomateinternational",
+      "key": "/receipt/:transferId",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAutomateinternational",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIAutomateinternational",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutomateinternational",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIAutomateinternational",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutomateinternational",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIAutomateinternational",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutomateinternational",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIAutomateinternational",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutomateinternational",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAutomateinternational",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIAutomateinternational",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAutomateinternational",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "aiFinancePlatform",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "aiFinancePlatform",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "aiFinancePlatform",
+      "key": "batch03",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "aiFinancePlatform",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "aiFinancePlatform",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "aiFinancePlatform",
+      "key": "login",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "aiFinancePlatform",
+      "key": "register",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "aiFinancePlatform",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "aiFinancePlatform",
+      "key": "settings",
+      "source": "/Volumes/external/projects/aiFinancePlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "aiFinancePlatform",
+      "key": "/bank/accounts/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "aiFinancePlatform",
+      "key": "/bank/ledger/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "aiFinancePlatform",
+      "key": "/bank/transactions/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "aiFinancePlatform",
+      "key": "/bank/interestAccrual/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "aiFinancePlatform",
+      "key": "/bank/kyc/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "aiFinancePlatform",
+      "key": "/bank/cardIssuance/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "aiFinancePlatform",
+      "key": "/bank/ach/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "aiFinancePlatform",
+      "key": "/bank/wire/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "aiFinancePlatform",
+      "key": "/bank/swift/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "aiFinancePlatform",
+      "key": "/bank/reconciliation/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "aiFinancePlatform",
+      "key": "/bank/regulatoryReporting/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "key": "/",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "key": "batch03",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "key": "login",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "key": "register",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiFinancialReportGenerator",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AiFinancialReportGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPersonalFinanceMultiAgent",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "financialServices",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/financialServices/src/components/layout/Sidebar.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "feature": "provider-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "order-installment-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "capture-completion-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cancellation-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "full-return-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "partial-return-allocation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "merchant-discount-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "promotional-subsidy-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "consumer-dispute-allocation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "reserve-hold-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "settlement-statement-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "missing-deposit-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "provider-correction-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cash-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "provider-channel-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "network-fee-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "merchant-hierarchy",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "transaction-volume-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "domestic-cross-border-classification",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "assessment-basis-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "switch-fee-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "token-service-fee-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "account-updater-fee-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "authorization-fee-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "chargeback-fee-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "volume-tier-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "processor-statement-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-request-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cash-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "network-merchant-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "issuer-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "account-card-hierarchy",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "transaction-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "eligible-spend-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "rebate-tier-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "growth-bonus-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "large-ticket-adjustment",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "virtual-card-analysis",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "ghost-card-analysis",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "foreign-exchange-fee-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "late-fee-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "intercompany-exclusion-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "statement-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "issuer-claim-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "rebate-cash-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "processor-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "merchant-account-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "card-transaction-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "interchange-qualification-reconstruction",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "card-brand-assessment-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "processor-markup-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "downgrade-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "duplicate-fee-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "refund-and-reversal-fee-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cross-border-and-currency-fee-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "tokenization-qualification-analysis",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "chargeback-fee-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "monthly-statement-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "processor-dispute-package",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "recovered-fee-ledger",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "processor-channel-and-location-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "processor-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "merchant-account-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "authorization-capture-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "refund-chargeback-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "pricing-model-reconstruction",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "markup-fee-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "gateway-fee-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "minimum-fee-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "reserve-holdback-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "settlement-timing-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "deposit-to-batch-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "missing-settlement-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "processor-dispute-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cash-recovery-ledger",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "account-processor-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    }
+  ]
+}

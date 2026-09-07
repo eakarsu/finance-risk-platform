@@ -1,0 +1,41 @@
+{
+  "id": "finance-risk-platform",
+  "title": "Financial risk & fraud controls",
+  "buyer": "Financial risk and fraud teams",
+  "sourceCount": 13,
+  "sources": [
+    "ai-bnpl-merchant-settlement-reconciliation",
+    "ai-card-network-assessment-fee-audit",
+    "ai-corporate-card-rebate-fee-recovery",
+    "ai-merchant-acquiring-interchange-fee-recovery",
+    "ai-merchant-chargeback-vamp-control-center",
+    "ai-payment-processor-fee-settlement-audit",
+    "AIAMLTransactionMonitoring",
+    "AIAntiFraud",
+    "AIAutomateinternational",
+    "aiFinancePlatform",
+    "AiFinancialReportGenerator",
+    "AIPersonalFinanceMultiAgent",
+    "financialServices"
+  ],
+  "status": "proposed build; not implemented",
+  "canonicalFeatureStatus": "Requires feature-level mapping and workflow migration; source route counts are not feature-completion counts.",
+  "port": 46018,
+  "productName": "Financial risk Workspace",
+  "runtimeVersion": "1.0.0",
+  "sourceRoots": [
+    "/Volumes/external/projects/ai-bnpl-merchant-settlement-reconciliation",
+    "/Volumes/external/projects/ai-card-network-assessment-fee-audit",
+    "/Volumes/external/projects/ai-corporate-card-rebate-fee-recovery",
+    "/Volumes/external/projects/ai-merchant-acquiring-interchange-fee-recovery",
+    "/Volumes/external/projects/ai-merchant-chargeback-vamp-control-center",
+    "/Volumes/external/projects/ai-payment-processor-fee-settlement-audit",
+    "/Volumes/external/projects/AIAMLTransactionMonitoring",
+    "/Volumes/external/projects/AIAntiFraud",
+    "/Volumes/external/projects/AIAutomateinternational",
+    "/Volumes/external/projects/aiFinancePlatform",
+    "/Volumes/external/projects/AiFinancialReportGenerator",
+    "/Volumes/external/projects/AIPersonalFinanceMultiAgent",
+    "/Volumes/external/projects/financialServices"
+  ]
+}

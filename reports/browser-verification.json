@@ -1,0 +1,11 @@
+{
+  "id": "finance-risk-platform",
+  "status": "passed",
+  "pagesVisited": 266,
+  "minimumRows": 15,
+  "browserCRUD": true,
+  "persistence": true,
+  "mobile": true,
+  "pageErrors": [],
+  "verifiedAt": "2026-09-07T14:43:44.421Z"
+}
