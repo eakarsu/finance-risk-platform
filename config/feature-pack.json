@@ -1,0 +1,28 @@
+{
+  "insights": [
+    {
+      "id": "insight-provider-agreement-library",
+      "feature": "provider-agreement-library",
+      "title": "Provider agreement library insight",
+      "focus": "Summarize Provider agreement library records: totals, status mix, field coverage and recent activity."
+    },
+    {
+      "id": "insight-reserve-hold-validation",
+      "feature": "reserve-hold-validation",
+      "title": "Reserve hold validation insight",
+      "focus": "Summarize Reserve hold validation records: totals, status mix, field coverage and recent activity."
+    },
+    {
+      "id": "insight-settlement-statement-matching",
+      "feature": "settlement-statement-matching",
+      "title": "Settlement statement matching insight",
+      "focus": "Summarize Settlement statement matching records: totals, status mix, field coverage and recent activity."
+    },
+    {
+      "id": "priority-actions",
+      "feature": "tasks",
+      "title": "Priority actions",
+      "focus": "Overdue and upcoming tasks, including unassigned work."
+    }
+  ]
+}
